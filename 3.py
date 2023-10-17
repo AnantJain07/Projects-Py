@@ -1,0 +1,16 @@
+# a=3
+# b=6
+# print(a," is greater ") if (a>b) else print(b," is greater")
+# Python program to show use of
+# + operator for different purposes.
+
+print(1 + 2)
+
+# concatenate two strings
+print("Geeks"+"For")
+
+# Product two numbers
+print(3 * 4)
+
+# Repeat the String
+print("Geeks"*4)
